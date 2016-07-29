@@ -1,0 +1,1 @@
+Easy way to call a git command using a docker container. Based on the ubuntu:latest container base.
